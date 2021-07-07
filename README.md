@@ -9,6 +9,13 @@ Exemplo de crédito em mercado financeiro.
 
 api:
 
+
+![](https://img.shields.io/badge/python-3.9-informational?style=flat&logoColor=white&color=blue) 
+![](https://img.shields.io/badge/python-3.9-informational?style=flat&logoColor=white&color=blue)
+
+
+
+
 https://pypi.org/project/scikit-learn/
 
 
