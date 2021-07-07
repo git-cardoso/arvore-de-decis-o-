@@ -1,11 +1,6 @@
 
 # calculo Entropia.
 Exemplo de crédito em mercado financeiro.
-```bash
-a variação de entalpia de uma reação é dada por ΔH = ΔHp – ΔHr,
-e este cálculo é aplicado quando se sabe as variações de entalpias
-dos produtos (ΔHp) e dos reagentes (ΔHr).
-```
 
 
 
